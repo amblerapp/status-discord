@@ -22,6 +22,6 @@ sites:
 status-website:
   cname: discord.status.ambler.app
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: RSS Feed Generator Status | Ambler App
-  introTitle: "**Upptime** for RSS Feed Generator"
-  introMessage: RSS 피드제작기 모니터
+  name: Discord Bots Status | Ambler App
+  introTitle: "**Upptime** for Discord Bots"
+  introMessage: 디스코드 봇 모니터
