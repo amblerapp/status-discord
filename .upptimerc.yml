@@ -6,16 +6,12 @@ sites:
     url: https://monitorss.ambler.app/
   - name: MonitoRSS-Ambler (Render)
     url: $MONITORSS_AMBLER_RENDER
-  - name: MonitoRSS-Cord
-    url: https://monitorss.cord.town/
-  - name: MonitoRSS-Cord (Render)
-    url: $MONITORSS_CORD_RENDER
   - name: MonitoRSS-Music
-    url: https://music-rss.cord.town/
+    url: https://music-rss.ambler.app/
   - name: MonitoRSS-Music (Render)
     url: $MONITORSS_MUSIC_RENDER
   - name: MonitoRSS-Tech
-    url: https://tech-rss.cord.town/
+    url: https://tech-rss.ambler.app/
   - name: MonitoRSS-Tech (Render)
     url: $MONITORSS_TECH_RENDER
 
