@@ -4,36 +4,40 @@
     "url": "https://monitorss.ambler.app/",
     "icon": "https://icons.duckduckgo.com/ip3/monitorss.ambler.app.ico",
     "slug": "monito-rss-ambler",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 451,
-    "timeDay": 421,
-    "timeWeek": 459,
-    "timeMonth": 451,
-    "timeYear": 451,
-    "dailyMinutesDown": {}
+    "time": 447,
+    "timeDay": 409,
+    "timeWeek": 451,
+    "timeMonth": 447,
+    "timeYear": 447,
+    "dailyMinutesDown": {
+      "2022-12-30": 0
+    }
   },
   {
     "name": "MonitoRSS-Ambler (Render)",
     "url": "$MONITORSS_AMBLER_RENDER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "monito-rss-ambler-render",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 347,
-    "timeDay": 315,
-    "timeWeek": 345,
-    "timeMonth": 347,
-    "timeYear": 347,
-    "dailyMinutesDown": {}
+    "time": 341,
+    "timeDay": 292,
+    "timeWeek": 336,
+    "timeMonth": 341,
+    "timeYear": 341,
+    "dailyMinutesDown": {
+      "2022-12-30": 0
+    }
   },
   {
     "name": "MonitoRSS-Music",
