@@ -1,7 +1,7 @@
 url: $MONITORSS_TECH_RENDER
-status: down
-code: 502
-responseTime: 378
-lastUpdated: 2023-01-18T11:54:58.879Z
+status: up
+code: 200
+responseTime: 322
+lastUpdated: 2023-01-18T12:23:12.216Z
 startTime: Wed Dec 21 2022 16:12:11 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
