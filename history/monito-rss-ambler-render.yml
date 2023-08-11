@@ -1,7 +1,7 @@
 url: $MONITORSS_AMBLER_RENDER
-status: up
-code: 200
-responseTime: 294
-lastUpdated: 2023-08-10T23:13:36.271Z
+status: down
+code: 500
+responseTime: 28
+lastUpdated: 2023-08-11T04:20:35.855Z
 startTime: Wed Dec 21 2022 16:12:05 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
