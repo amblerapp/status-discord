@@ -1,7 +1,7 @@
 url: https://tech-rss.ambler.app/
-status: up
-code: 200
-responseTime: 454
-lastUpdated: 2023-08-12T19:25:54.913Z
+status: down
+code: 503
+responseTime: 317
+lastUpdated: 2023-08-12T20:08:25.021Z
 startTime: Wed Dec 21 2022 16:12:10 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
