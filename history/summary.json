@@ -100,7 +100,7 @@
     "timeMonth": 195,
     "timeYear": 466,
     "dailyMinutesDown": {
-      "2024-02-10": 35,
+      "2024-02-10": 45,
       "2024-02-09": 1440,
       "2024-02-08": 1440,
       "2024-02-07": 1440,
@@ -162,7 +162,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "monito-rss-music-render",
     "status": "down",
-    "uptime": "89.07%",
+    "uptime": "89.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -173,7 +173,7 @@
     "timeMonth": 142,
     "timeYear": 300,
     "dailyMinutesDown": {
-      "2024-02-10": 35,
+      "2024-02-10": 45,
       "2024-02-09": 1440,
       "2024-02-08": 1440,
       "2024-02-07": 1440,
