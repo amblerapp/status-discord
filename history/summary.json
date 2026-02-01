@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/monitorss.ambler.app.ico",
     "slug": "monito-rss-ambler",
     "status": "down",
-    "uptime": "44.58%",
+    "uptime": "44.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 283,
+    "time": 281,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-31": 89,
+      "2026-02-01": 116,
+      "2026-01-31": 1440,
       "2026-01-30": 1440,
       "2026-01-29": 1440,
       "2026-01-28": 1440,
@@ -379,8 +380,7 @@
       "2025-02-05": 1440,
       "2025-02-04": 1440,
       "2025-02-03": 1440,
-      "2025-02-02": 1440,
-      "2025-02-01": 1440
+      "2025-02-02": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "monito-rss-ambler-render",
     "status": "down",
-    "uptime": "44.58%",
+    "uptime": "44.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 222,
-    "timeDay": 104,
-    "timeWeek": 156,
-    "timeMonth": 232,
+    "timeDay": 137,
+    "timeWeek": 147,
+    "timeMonth": 233,
     "timeYear": 235,
     "dailyMinutesDown": {
-      "2026-01-31": 89,
+      "2026-02-01": 116,
+      "2026-01-31": 1440,
       "2026-01-30": 1440,
       "2026-01-29": 1440,
       "2026-01-28": 1440,
@@ -763,8 +764,7 @@
       "2025-02-05": 1440,
       "2025-02-04": 1440,
       "2025-02-03": 1440,
-      "2025-02-02": 1440,
-      "2025-02-01": 1440
+      "2025-02-02": 1440
     }
   },
   {
@@ -773,7 +773,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/music-rss.ambler.app.ico",
     "slug": "monito-rss-music",
     "status": "down",
-    "uptime": "32.55%",
+    "uptime": "32.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -784,7 +784,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-31": 89,
+      "2026-02-01": 116,
+      "2026-01-31": 1440,
       "2026-01-30": 1440,
       "2026-01-29": 1440,
       "2026-01-28": 1440,
@@ -1147,8 +1148,7 @@
       "2025-02-05": 1440,
       "2025-02-04": 1440,
       "2025-02-03": 1440,
-      "2025-02-02": 1440,
-      "2025-02-01": 1440
+      "2025-02-02": 1440
     }
   },
   {
@@ -1157,7 +1157,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "monito-rss-music-render",
     "status": "down",
-    "uptime": "32.55%",
+    "uptime": "32.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1168,7 +1168,8 @@
     "timeMonth": 0,
     "timeYear": 306,
     "dailyMinutesDown": {
-      "2026-01-31": 89,
+      "2026-02-01": 116,
+      "2026-01-31": 1440,
       "2026-01-30": 1440,
       "2026-01-29": 1440,
       "2026-01-28": 1440,
@@ -1531,8 +1532,7 @@
       "2025-02-05": 1440,
       "2025-02-04": 1440,
       "2025-02-03": 1440,
-      "2025-02-02": 1440,
-      "2025-02-01": 1440
+      "2025-02-02": 1440
     }
   },
   {
@@ -1541,7 +1541,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tech-rss.ambler.app.ico",
     "slug": "monito-rss-tech",
     "status": "down",
-    "uptime": "47.14%",
+    "uptime": "47.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1552,7 +1552,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-31": 89,
+      "2026-02-01": 116,
+      "2026-01-31": 1440,
       "2026-01-30": 1440,
       "2026-01-29": 1440,
       "2026-01-28": 1440,
@@ -1915,8 +1916,7 @@
       "2025-02-05": 1440,
       "2025-02-04": 1440,
       "2025-02-03": 1440,
-      "2025-02-02": 1440,
-      "2025-02-01": 1440
+      "2025-02-02": 1440
     }
   },
   {
@@ -1925,18 +1925,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "monito-rss-tech-render",
     "status": "down",
-    "uptime": "47.14%",
+    "uptime": "47.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 215,
-    "timeDay": 134,
+    "timeDay": 108,
     "timeWeek": 160,
-    "timeMonth": 215,
-    "timeYear": 226,
+    "timeMonth": 213,
+    "timeYear": 225,
     "dailyMinutesDown": {
-      "2026-01-31": 89,
+      "2026-02-01": 116,
+      "2026-01-31": 1440,
       "2026-01-30": 1440,
       "2026-01-29": 1440,
       "2026-01-28": 1440,
@@ -2299,8 +2300,7 @@
       "2025-02-05": 1440,
       "2025-02-04": 1440,
       "2025-02-03": 1440,
-      "2025-02-02": 1440,
-      "2025-02-01": 1440
+      "2025-02-02": 1440
     }
   }
 ]
